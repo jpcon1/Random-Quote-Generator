@@ -11,10 +11,9 @@ button{
   border-radius: 20px;
 }
 
-p{
-  animation: fade-in 2s
+/* .word{
+  animation:fade-in 2s;
 }
-
 @keyframes fade-in {
   0% {
     opacity: 0;
@@ -22,4 +21,4 @@ p{
   100% {
     opacity: 1;
   }
-}
+} */

@@ -9,6 +9,9 @@ export default function QuoteGenerator(){
 
     const [author,setAuthor] = useState("")
 
+    
+    //add fade-in animation when "GET QUOTE" IS CLICKED
+
    function getQuote(){
     fetch(url)
 
@@ -30,7 +33,7 @@ export default function QuoteGenerator(){
 
         <h1>Random Quote Generator</h1>
 
-        <p>{word}</p>
+        <p id="word">{word}</p>
 
         <p>-{author}</p>
 
