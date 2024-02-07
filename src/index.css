@@ -11,6 +11,10 @@ button{
   border-radius: 20px;
 }
 
+hr{
+  width: 600px;
+}
+
 /* .word{
   animation:fade-in 2s;
 }
@@ -22,3 +26,9 @@ button{
     opacity: 1;
   }
 } */
+
+.box{
+  background-color: red;
+  width: 20px;
+  height: 20px;
+}
