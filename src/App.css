@@ -9,21 +9,8 @@
   height: 90vh;
 }
 
-body{
- 
-}
-
 .quote-box>button{
   margin-top: 100px;
-}
-
-
-.card {
-  padding: 2em;
-}
-
-.read-the-docs {
-  color: #888;
 }
 
 .quote-box{

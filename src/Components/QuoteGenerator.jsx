@@ -9,7 +9,6 @@ export default function QuoteGenerator(){
 
     const [author,setAuthor] = useState("")
 
-    
     //add fade-in animation when "GET QUOTE" IS CLICKED
 
    function getQuote(){
