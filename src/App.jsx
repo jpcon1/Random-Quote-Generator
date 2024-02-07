@@ -5,8 +5,9 @@ function App() {
 
   return (
     <>
-    <QuoteGenerator></QuoteGenerator>
-    
+
+    <QuoteGenerator/>
+
     </>
   )
 }
